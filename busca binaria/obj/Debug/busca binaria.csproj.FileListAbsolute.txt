@@ -1,0 +1,14 @@
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\bin\Debug\busca binaria.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\bin\Debug\busca binaria.exe
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\bin\Debug\busca binaria.pdb
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\obj\Debug\busca binaria.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\obj\Debug\busca binaria.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\obj\Debug\busca binaria.exe
+C:\Users\assue\Desktop\COISAS FACUL\aed\busca binaria\busca binaria\obj\Debug\busca binaria.pdb
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\bin\Debug\busca binaria.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\bin\Debug\busca binaria.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\bin\Debug\busca binaria.pdb
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\obj\Debug\busca binaria.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\obj\Debug\busca binaria.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\obj\Debug\busca binaria.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\pesquisa binaria\busca binaria\obj\Debug\busca binaria.pdb
